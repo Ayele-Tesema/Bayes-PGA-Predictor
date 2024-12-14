@@ -1,0 +1,6 @@
+R programming lagnuage
+RStudio
+shiny
+rstanarm
+ggplot2
+posterior
