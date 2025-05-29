@@ -31,14 +31,35 @@ To run the Bayes-PGA-Predictor application:
 The application allows users to:
 
 1. Input geotechnical parameters within specified ranges.
-2. Generate probabilistic PGA predictions, including the mean, standard deviation, coefficient of variation (CoV), and 95% credible intervals.
-3. Visualize results through histograms.
-4. Export results as .csv files for detailed analysis.
+PI(%): 0-60, Vs(m/s):100-650, H(m): 10-100, αgR(g): 0.05-1 and γ(kN/m3): 12-24
+2. Click on the "Pridict" button to generate probabilistic PGA predictions. 
+The tool generates:
+
+Mean prediction: Central estimate of PGA
+
+Standard deviation: Spread of predicted values
+
+Coefficient of Variation (CoV): Normalized measure of dispersion
+
+95% Credible Interval: Uncertainty bounds of the prediction
+
+Histogram: Distribution of posterior predictions
+
+3. Export results as .csv files by clicking on "Download predicted PGA" for detailed analysis.
+### Troubleshooting
+
+App won’t launch? Ensure all packages are installed and App.r is in the working directory.
+
+Inputs out of range? Confirm all values are within specified limits.
+
+Prediction looks off? Try with different realistic inputs and check units.
 
 ### Contact
 If you have questions, feedback, or need assistance, feel free to contact:
 
 Ayele T. Chala
 
-Email: chala.ayele.tesema@hallgato.sze.hun
+Emails: chala.ayele.tesema@hallgato.sze.hu
+	sonoft@gmail.com
+
 
