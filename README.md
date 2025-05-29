@@ -59,7 +59,7 @@ If you have questions, feedback, or need assistance, feel free to contact:
 
 Ayele T. Chala
 
-Emails: chala.ayele.tesema@hallgato.sze.hu
+Emails: chala.ayele.tesema@hallgato.sze.hu, 
 	sonoft@gmail.com
 
 
